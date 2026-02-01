@@ -1,5 +1,7 @@
 # Tasks & Progress
 
+⏰ **URGENT:** Submission due Sunday Feb 1 at 1:30 PM (tomorrow afternoon!)
+
 Track what's done, in progress, and next.
 
 ---
@@ -24,23 +26,26 @@ Track what's done, in progress, and next.
 
 ## 📋 To Do
 
-### High Priority
-- [ ] Nail down benchmark task list
-- [ ] Decide on infrastructure (where/how to run tests)
-- [ ] Create variant configuration specs
-- [ ] Design W&B integration strategy
-- [ ] Determine statistical approach (how many runs needed?)
+### 🚨 Critical Path (Must Have for 1:30 PM Tomorrow)
+- [ ] **MVP SCOPE:** What's the minimum viable demo?
+- [ ] Pick 2-3 simple benchmark tasks (not full suite)
+- [ ] Set up 2-3 variants (not all 5) - prioritize most interesting
+- [ ] Run benchmarks at least once per variant
+- [ ] Create basic results comparison (even just a table/chart)
+- [ ] Prepare 3-5 min presentation slides
+- [ ] Record demo video for social media prize
 
-### Medium Priority
-- [ ] Set up first variant instance
-- [ ] Create automation scripts for running benchmarks
-- [ ] Design results comparison framework
-- [ ] Plan community leaderboard platform
+### Nice to Have (If Time)
+- [ ] W&B integration for tracking
+- [ ] More comprehensive task list
+- [ ] Statistical significance (multiple runs)
+- [ ] Community leaderboard concept/mockup
 
-### Low Priority
-- [ ] Community outreach strategy
-- [ ] Presentation/demo planning
+### Post-Hackathon (Don't Prioritize Now)
+- [ ] Full variant suite (all 5 + baselines)
+- [ ] Community platform launch
 - [ ] Documentation polish
+- [ ] Extended benchmark suite
 
 ---
 

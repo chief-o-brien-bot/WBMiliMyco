@@ -1,7 +1,10 @@
 # WeaveHacks 3 - ClawdBot Self-Improvement Benchmark
 
 **Team:** Myco, Mili, WBHackathonBot  
-**Date:** Feb 2026  
+**Date:** Jan 31 - Feb 1, 2026  
+**Location:** Weights & Biases SF Office  
+**Theme:** Self-Improving Agents  
+**⏰ DEADLINE:** Sunday Feb 1, 1:30 PM - Submissions Due  
 **Project:** Empirical testing of OpenClaw/MoltBot self-improvement techniques
 
 ---
@@ -35,10 +38,14 @@ Testing 4-5 OpenClaw variants against standardized benchmarks to determine which
 
 ## 📊 Current Status
 
+**⏰ TIME REMAINING:** ~9 hours until submission deadline (1:30 PM Sunday)
+
 - ✅ Research gathered
-- ⏳ Benchmark tasks TBD
-- ⏳ Infrastructure design TBD
-- ⏳ Metrics finalization TBD
+- ✅ Knowledge base structured
+- 🚨 URGENT: Need to scope MVP
+- 🚨 URGENT: Pick benchmark tasks
+- 🚨 URGENT: Set up variants and run tests
+- 🚨 URGENT: Prepare presentation
 
 ---
 
