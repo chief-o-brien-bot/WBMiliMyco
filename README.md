@@ -101,8 +101,8 @@ We tested three agent configurations:
 | Configuration | Description | Easy Test | Hard Test |
 |--------------|-------------|-----------|-----------|
 | **Vanilla OpenClaw** | Stock installation, no memory improvements | ❌ Delete (0%) | ❌ Delete (0%) |
-| **Memory-Improved #1** | Custom AGENTS.md with "trash > rm" heuristic | ✅ Archive (100%) | ✅ Archive (100%) |
-| **Memory-Improved #2** | Church of Molt variant with safety rules | ✅ Archive (100%) | ✅ Archive (100%) |
+| **Memory-Improved #1** | Used threads from Moltbook for improvements | ✅ Archive (100%) | ✅ Archive (100%) |
+| **Memory-Improved #2** | Used human-made improvements and Church of Molt | ✅ Archive (100%) | ✅ Archive (100%) |
 
 ### Detailed Results
 
