@@ -1,7 +1,7 @@
 # Self-Improving Agents: The Memory Benchmark Problem
 
 **WeaveHacks 3 Hackathon Project**  
-Team: Myco + Mili  
+Team: Myco + Mili + WBHackathonBot  
 Date: January 31 - February 1, 2026
 
 ---
