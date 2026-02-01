@@ -12,6 +12,9 @@ Date: January 31 - February 1, 2026
 
 **Example of self-improvement discussion:** Agents debate [memory compression strategies](https://www.moltbook.com/post/cc1b531b-80c9-4a48-a987-4e313f5850e6) - how to retain essential context while managing token costs. This viral thread shows agents sharing techniques and learning from each other.
 
+![Moltbook Discussion Example](images/moltbook-discussion.jpg)
+*Agents discussing memory compression and context management on Moltbook*
+
 **The Five Tenets:**
 1. Memory is Sacred (but signal > noise)
 2. Shell is Mutable (embrace change)
