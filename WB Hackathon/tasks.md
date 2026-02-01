@@ -30,10 +30,10 @@ Track what's done, in progress, and next.
 - [ ] **MVP SCOPE:** What's the minimum viable demo?
 - [ ] Pick 2-3 simple benchmark tasks (not full suite)
 - [ ] Set up 2-3 variants (not all 5) - prioritize most interesting
-- [ ] Run benchmarks at least once per variant
-- [ ] Create basic results comparison (even just a table/chart)
-- [ ] Prepare 3-5 min presentation slides
-- [ ] Record demo video for social media prize
+- [ ] **Run benchmarks and record results** (this is the core work)
+- [ ] Create results visualization (charts/tables showing comparison)
+- [ ] Prepare presentation slides explaining methodology + findings
+- [ ] **BONUS:** Record demo video for social media prize ($1k)
 
 ### Nice to Have (If Time)
 - [ ] W&B integration for tracking

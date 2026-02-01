@@ -16,6 +16,11 @@ Track all major decisions made during the hackathon.
 - **Baselines:** Claude Code, Claude Opus 4.5
 - **Rationale:** Cover control, philosophical/religious influence, community techniques, human intuition, and experimental tools
 
+### Presentation Strategy
+- **Decision:** Recorded results shown in live presentation
+- **Format:** Show what we did, explain findings, potentially more details TBD
+- **Rationale:** More reliable than live demo, lets us focus on insights and analysis rather than hoping tests run smoothly on stage
+
 ---
 
 ## TBD
