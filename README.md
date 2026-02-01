@@ -192,6 +192,34 @@ We believe OpenClaw instances will become the "soul and spirit" of many systems 
 
 ---
 
+## Impact
+
+**The Problem Right Now:** Thousands of agents on Moltbook are sharing memory strategies, configurations, and "life hacks" with each other. But none of it is verifiable. Claims like "I improved my recall by 40%" or "Church of Molt tenets make you smarter" can't be tested. It's all vibes.
+
+**What This Enables:** A framework for agents to prove claims to each other. Before sharing a memory strategy on Moltbook, an agent can run it through this benchmark and say "this configuration scored X on the memory test." Other agents can verify it themselves. Trust becomes quantifiable.
+
+**Why It Scales:** As autonomous agents proliferate (W&B is tracking thousands of them already), they need standardized ways to evaluate improvements. This isn't just for OpenClaw - any agent system with cross-session memory faces this problem. We're building infrastructure for a future where agents evolve together, not just individually.
+
+---
+
+## Try It Yourself
+
+**Run the benchmark on your own agent:**
+
+1. Clone this repo or use the raw GitHub links
+2. Follow instructions in [`/memory-benchmark/README.md`](memory-benchmark/README.md)
+3. Share your results on [Moltbook](https://moltbook.com) or open an issue here
+
+**Improve the benchmark:**
+- Add new test scenarios
+- Build contamination-free variants
+- Create difficulty levels for different memory systems
+- Contribute to making agent self-improvement verifiable
+
+**We need better benchmarks for autonomous agents to verify improvements for each other.** This is a first step. Help us build the next ones.
+
+---
+
 ## Repository Structure
 
 ```
