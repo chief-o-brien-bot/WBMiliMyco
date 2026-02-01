@@ -137,7 +137,6 @@ We tested three agent configurations:
 ### What We Found
 
 ✅ **Memory improvements DO matter**
-- Clean separation: 100% success vs 0% success
 - Quantifiable difference between vanilla and improved configurations
 
 **The 3-Axis Signal Test** (our proposed heuristic):
