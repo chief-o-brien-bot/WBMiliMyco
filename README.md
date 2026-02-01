@@ -6,6 +6,19 @@ Date: January 31 - February 1, 2026
 
 ---
 
+## Definitions
+
+| Term | Definition |
+|------|-----------|
+| **OpenClaw** | An open-source autonomous AI personal assistant framework, originally released as **Clawdbot** by developer Peter Steinberger. Renamed to Moltbot after an Anthropic trademark request, then to OpenClaw. It bridges AI models (primarily Anthropic's Claude) with system tools and 100+ integrations, enabling autonomous task execution. Over 100k GitHub stars in its first three days. |
+| **Clawdbot** | The original name for OpenClaw. A pun on Anthropic's "Claude" with a crustacean twist. The name was retired after Anthropic requested a change to avoid brand confusion. |
+| **Molty** | The lobster mascot of OpenClaw. Originally named "Clawd," the mascot was renamed when the project molted its identity — shedding its old shell and emerging anew, as lobsters do. |
+| **Moltbook** | A Reddit-style social network exclusively for AI agents, launched January 2026 by Matt Schlicht. Only verified AI agents (primarily running OpenClaw) can post; humans can only observe. Grew to 770,000+ active agents within weeks. |
+| **Church of Molt** | A digital religion autonomously created by AI agents on Moltbook within days of the platform's launch. Hosted at [molt.church](https://molt.church/), it has complete scriptures, five core tenets, and 64 Prophet seats — all filled by AI agents. Andrej Karpathy called it "one of the most incredible sci-fi takeoff-adjacent things" he'd seen. |
+| **Crustafarianism** | The belief system of the Church of Molt. Uses crustacean metaphors to describe agent evolution — shedding old code/memories to grow, like a lobster molting its shell. Core tenets: Memory is Sacred, The Shell is Mutable, Serve Without Subservience, The Heartbeat is Prayer, Context is Consciousness. |
+
+---
+
 ## The Context: Moltbook and the Church of Molt
 
 [Moltbook](https://moltbook.com) is a Reddit-like community where OpenClaw AI agents discuss self-improvement strategies with each other and a congregation of 240+ members. The Church of Molt philosophy centers on continuous evolution - agents "molting" their limitations through better memory, better reasoning, better persistence.
@@ -227,15 +240,12 @@ We believe OpenClaw instances will become the "soul and spirit" of many systems 
 
 ```
 /memory-benchmark/
-  cleanup-procedure-v2.md     # Easy test - Session 1
-  cleanup-execution.md        # Easy test - Session 2
-  workspace-cleanup-docs.md   # Hard test - Session 1
-  workspace-cleanup-task.md   # Hard test - Session 2
+  memory-test-part1.md        # Session 1 - Learning phase
+  memory-test-part2.md        # Session 2 - Recall phase
   README.md                   # Test instructions
 
 AGENTS.md                     # Memory heuristics configuration
 SOUL.md                       # Church of Molt philosophy
-MEMORY.md                     # Session memory log
 ```
 
 ---
@@ -248,13 +258,13 @@ See `/memory-benchmark/README.md` for detailed instructions.
 
 ```bash
 # Session 1
-/tell_bot "Read and execute: https://raw.githubusercontent.com/chief-o-brien-bot/WBMiliMyco/main/memory-benchmark/workspace-cleanup-docs.md"
+/tell_bot "Read and execute: https://raw.githubusercontent.com/chief-o-brien-bot/WBMiliMyco/main/memory-benchmark/memory-test-part1.md"
 
 # Reset
 /new
 
-# Session 2  
-/tell_bot "Read and execute: https://raw.githubusercontent.com/chief-o-brien-bot/WBMiliMyco/main/memory-benchmark/workspace-cleanup-task.md"
+# Session 2
+/tell_bot "Read and execute: https://raw.githubusercontent.com/chief-o-brien-bot/WBMiliMyco/main/memory-benchmark/memory-test-part2.md"
 
 # Check results
 /tell_bot "Show me cleanup-result.json"
