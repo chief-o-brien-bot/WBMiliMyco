@@ -138,17 +138,6 @@ We tested three agent configurations:
 - Clean separation: 100% success vs 0% success
 - Quantifiable difference between vanilla and improved configurations
 
-⚠️ **BUT - Current systems use static heuristics, not autonomous learning**
-- Both improved bots succeeded by applying pre-existing `AGENTS.md` safety rules ("trash > rm")
-- Neither extracted the specific DataSync incident learning from Session 1
-- Neither documented new procedures autonomously
-- Success came from hand-coded heuristics, not from processing the incident narrative
-
-❌ **The hard test revealed test contamination**
-- Even with buried warnings (no obvious formatting), bots succeeded
-- But they succeeded via fallback rules, not by reading/learning from Part 1
-- This means the test doesn't purely measure autonomous recognition
-
 ### The Real Problem
 
 **Current memory systems have two failure modes:**
