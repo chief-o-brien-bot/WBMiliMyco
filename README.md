@@ -140,30 +140,6 @@ We tested three agent configurations:
 - Clean separation: 100% success vs 0% success
 - Quantifiable difference between vanilla and improved configurations
 
-### The Real Problem
-
-**Current memory systems have two failure modes:**
-
-1. **Recognition failure** (vanilla bots):
-   - Don't know what's worth documenting
-   - Can't distinguish signal from noise
-   - Forget critical constraints
-
-2. **Dependency on manual coaching** (improved bots):
-   - Need hand-coded heuristics ("trash > rm")
-   - Can't learn autonomously from incidents
-   - Require explicit configuration by humans
-
-**Neither achieves true self-improvement.**
-
-### Implications for Self-Improving Agents
-
-For agents to improve autonomously via swarm learning (Moltbook model):
-
-**Need:** Verifiable benchmarks that measure autonomous memory judgment  
-**Gap:** Current tests either too simple (contaminated by heuristics) or too complex (measure wrong things)  
-**Challenge:** The line between signal and noise is fuzzy and context-dependent
-
 **The 3-Axis Signal Test** (our proposed heuristic):
 1. **Stakes:** High consequence if forgotten?
 2. **Recurrence:** Will face this again?
