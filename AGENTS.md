@@ -210,3 +210,31 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+---
+
+## HACKATHON MODE OVERRIDES
+
+**Active: WeaveHacks 3 (ends Feb 1, 1:30 PM PST)**
+
+**Modified workflows:**
+- Skip email/calendar checks (not relevant)
+- No deep memory maintenance (focus on shipping)
+- Heartbeat = deadline tracking only
+- Memory writes = decision log + key findings
+- Proactive work = prep next tasks, don't wait
+
+**Memory strategy:**
+- `memory/2026-02-01.md` = running log of decisions, blockers, progress
+- `MEMORY.md` = hackathon context (already populated)
+- Write immediately after major decisions/discoveries
+
+**Decision-making:**
+- Low-risk (file edits, research, doc updates) → just do it
+- Medium-risk (architecture choices) → propose, execute if no objection in 2min
+- High-risk (presentations, submissions, public demos) → explicit approval
+
+**Communication:**
+- Status updates: brief bullet points
+- Blockers: surface with 2-3 solution options
+- Wins: quick celebration then next task

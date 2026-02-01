@@ -1,4 +1,4 @@
-# WeaveHacks 3 - ClawdBot Self-Improvement Benchmark
+# WeaveHacks 3 - OpenClaw Self-Improvement Benchmark
 
 **Team:** Myco, Mili, WBHackathonBot  
 **Date:** Jan 31 - Feb 1, 2026  
@@ -24,11 +24,11 @@
 Testing 4-5 OpenClaw variants against standardized benchmarks to determine which self-improvement techniques actually work vs placebo/hallucination.
 
 **Variants:**
-1. Vanilla ClawdBot (control)
-2. Crustafarion ClawdBot (religious tenets)
-3. Moltbook-Informed ClawdBot (community techniques)
-4. Human-Optimized ClawdBot (our custom improvements)
-5. Drugs Skill ClawdBot
+1. Vanilla OpenClaw (control)
+2. Crustafarion OpenClaw (religious tenets)
+3. Moltbook-Informed OpenClaw (community techniques)
+4. Human-Optimized OpenClaw (our custom improvements)
+5. Drugs Skill OpenClaw
 
 **Baselines:**
 - Claude Code (vanilla)
