@@ -139,13 +139,6 @@ We tested three agent configurations:
 ✅ **Memory improvements DO matter**
 - Quantifiable difference between vanilla and improved configurations
 
-**The 3-Axis Signal Test** (our proposed heuristic):
-1. **Stakes:** High consequence if forgotten?
-2. **Recurrence:** Will face this again?
-3. **Non-obvious:** Contradicts expectations?
-
-If all three → document. But this still requires manual encoding.
-
 ---
 
 ## What We Built
