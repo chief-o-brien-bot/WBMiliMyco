@@ -4,7 +4,24 @@ Track all major decisions made during the hackathon.
 
 ---
 
-## 2026-02-01
+## 2026-02-01 - Evening
+
+### Naming Convention
+- **Decision:** Use "OpenClaw" as primary framework name throughout project
+- **Rationale:** Current/official branding (ClawdBot and MoltBot are historical)
+- **Implementation:** Updated all docs, code, and presentations (preserved historical context in terminology section)
+
+### Infrastructure Approach
+- **Decision:** Mili handles AWS snapshot provisioning for each variant
+- **Process:** 1) Create snapshots, 2) Provision for testing, 3) Final snapshot when ready
+- **Status:** Team left W&B office heading home, provisioning in progress
+
+### Timeline Checkpoint
+- **Current Time:** Saturday 9:42 PM PST
+- **Deadline:** Sunday 1:30 PM PST (~15h 48m remaining)
+- **Status:** Infrastructure setup phase
+
+## 2026-02-01 - Earlier
 
 ### Project Scope
 - **Decision:** Focus on benchmarking existing OpenClaw variants rather than building new agent frameworks
@@ -25,10 +42,21 @@ Track all major decisions made during the hackathon.
 
 ## TBD
 
-### Benchmark Tasks
-- **Status:** Open question
-- **Candidates:** Coding challenges, reasoning, memory recall, multi-step planning, creative problem solving
-- **Needs:** Specific task list and difficulty levels
+### Benchmark Selection ✅ DECIDED
+- **Decision:** Use GAIA (General AI Assistants) benchmark, Level 1 for MVP
+- **Rationale:** 
+  - Designed for agentic LLMs with tools (perfect for OpenClaw)
+  - Tests agent-specific capabilities: web search, file handling, multi-step planning
+  - Unambiguous grading (single factoid answers)
+  - Level 1 is MVP-friendly (≤5 steps, 0-1 tool)
+  - Well-established leaderboard + credibility
+- **Source:** https://huggingface.co/datasets/gaia-benchmark/GAIA
+- **Alternatives considered:** MMLU-Pro (too LLM-focused), AgentBench (too complex for deadline)
+- **Implementation:** 
+  - Start with Level 1 validation set (~20-30 questions)
+  - Track accuracy, steps, cost per question
+  - Stretch: Add Level 2, multiple runs if time permits
+- **Time:** 2026-02-01 05:54 UTC (~15.5h to deadline)
 
 ### Infrastructure
 - **Status:** Open question

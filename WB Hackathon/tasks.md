@@ -18,21 +18,34 @@ Track what's done, in progress, and next.
 
 ## 🔄 In Progress
 
-- [ ] Define specific benchmark tasks
-- [ ] Design infrastructure for clean instance testing
+- [x] Design infrastructure for clean instance testing → **Mili handling AWS snapshots**
+- [ ] Define specific benchmark tasks → **BLOCKING: need to pick benchmark**
+- [ ] Research Moltbook self-improvement threads → **Needed for Moltbook-Informed variant**
 - [ ] Finalize metrics and measurement approach
 
 ---
 
 ## 📋 To Do
 
-### 🚨 Critical Path (Must Have for 1:30 PM Tomorrow)
-- [ ] **MVP SCOPE:** What's the minimum viable demo?
-- [ ] Pick 2-3 simple benchmark tasks (not full suite)
-- [ ] Set up 2-3 variants (not all 5) - prioritize most interesting
-- [ ] **Run benchmarks and record results** (this is the core work)
-- [ ] Create results visualization (charts/tables showing comparison)
-- [ ] Prepare presentation slides explaining methodology + findings
+### 🚨 Critical Path (Must Have for 1:30 PM Sunday)
+
+**PHASE 1: Design (can start now while waiting for AWS)**
+- [x] **Pick a benchmark** ✅ DECIDED: GAIA Level 1 (05:54 UTC)
+- [ ] **Access GAIA dataset** - HuggingFace account + agree to terms
+- [ ] **Download GAIA Level 1 validation set** - public test questions
+- [ ] **Research Moltbook self-improvement threads** - extract techniques for variant configs
+- [ ] **MVP SCOPE:** Test all 5 variants on GAIA Level 1 (~20-30 questions)
+- [ ] **Build scoring automation** - compare agent outputs vs ground truth
+
+**PHASE 2: Execute (needs AWS snapshots ready)**
+- [ ] **Run benchmarks repeatedly** across all variants
+- [ ] **Track costs per run**
+- [ ] Record results data
+
+**PHASE 3: Analyze & Present**
+- [ ] **Analyze benchmark results** - statistical comparison
+- [ ] **Create results visualization** (charts/tables showing comparison)
+- [ ] **Prepare presentation for judges** - methodology + findings
 - [ ] **BONUS:** Record demo video for social media prize ($1k)
 
 ### Nice to Have (If Time)
