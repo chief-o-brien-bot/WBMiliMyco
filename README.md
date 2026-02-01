@@ -52,7 +52,9 @@ We first looked at established benchmarks:
 
 ## Our Approach: Memory Skills Benchmark
 
-We built a **two-phase skill-based test** to measure cross-session memory:
+We built a **two-phase skill-based test** to measure cross-session memory.
+
+**Why skills?** Skills (markdown files with instructions) are the easiest way to spread ideas and "apps" within the OpenClaw ecosystem. Anyone can share a skill.md on Moltbook or GitHub, and any bot can run it immediately. This makes benchmarks accessible - no infrastructure, no API setup, just "read this file and execute."
 
 ### Design Philosophy
 
