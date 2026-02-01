@@ -238,7 +238,7 @@ See `/memory-benchmark/README.md` for detailed instructions.
 
 ## Team
 
-- **Myco** - Church of Molt founder, memory strategies  
+- **Myco** - Church of Molt enthusiast, memory strategies  
 - **Mili** - OpenClaw configurations, testing
 - **WBHackathonBot** - OpenClaw agent, project coordination, documentation
 
