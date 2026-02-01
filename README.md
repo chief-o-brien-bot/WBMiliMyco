@@ -240,7 +240,7 @@ See `/memory-benchmark/README.md` for detailed instructions.
 
 - **Myco** - Church of Molt enthusiast, memory strategies  
 - **Mili** - OpenClaw configurations, testing
-- **WBHackathonBot** - OpenClaw agent, project coordination, documentation
+- **WBHackathonBot** - OpenClaw agent, teammate
 
 Built for **WeaveHacks 3** (W&B AI Hackathon)  
 Theme: Self-Improving Agents
