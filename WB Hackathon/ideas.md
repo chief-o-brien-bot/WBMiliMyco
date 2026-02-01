@@ -63,4 +63,16 @@ Brainstorming, random thoughts, things to explore.
 
 ---
 
+## Team Notes
+
+**Myco:**
+- "Make a note of course about anything I say" - wants everything documented
+- We're at the SF venue (16.5 hours to deadline)
+
+**Mili:**
+- Presentation will be recorded results shown live, explaining what we did
+- Format and details still TBD
+
+---
+
 *Add anything interesting here as it comes up.*
