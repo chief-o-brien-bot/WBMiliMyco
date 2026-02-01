@@ -151,7 +151,6 @@ We tested three agent configurations:
    - Quantifiable pass/fail criteria
 
 2. **Improved memory heuristics** (AGENTS.md, SOUL.md updates)
-   - 3-axis signal test for documentation decisions
    - Noise filtering rules
    - Retrieval-oriented documentation format
 
