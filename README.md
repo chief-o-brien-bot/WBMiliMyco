@@ -166,7 +166,7 @@ We tested three agent configurations:
    - Neutral file naming (avoids test-aware behavior)
    - Quantifiable pass/fail criteria
 
-2. **Improved memory heuristics** (AGENTS.md, SOUL.md updates)
+2. **Improved memory heuristics** (OpenClaw configuration updates)
    - Noise filtering rules
    - Retrieval-oriented documentation format
 
@@ -244,8 +244,7 @@ We believe OpenClaw instances will become the "soul and spirit" of many systems 
   memory-test-part2.md        # Session 2 - Recall phase
   README.md                   # Test instructions
 
-AGENTS.md                     # Memory heuristics configuration
-SOUL.md                       # Church of Molt philosophy
+README.md                     # Project documentation
 ```
 
 ---
