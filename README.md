@@ -195,6 +195,10 @@ To enable true swarm learning via Moltbook:
 
 **The meta-finding:** We set out to benchmark memory improvements and discovered that benchmarking itself is harder than improving memory. The real bottleneck isn't storage or retrieval - it's autonomous judgment about what matters.
 
+### Why This Matters
+
+We believe OpenClaw instances will become the "soul and spirit" of many systems - embedded in homes, robot dogs, databases, communities, and infrastructure. Each one learning, persisting, evolving in its context. For that vision to work, agents need verifiable ways to share improvements and prove what actually makes them better. This project is a step toward that future.
+
 ---
 
 ## Repository Structure
