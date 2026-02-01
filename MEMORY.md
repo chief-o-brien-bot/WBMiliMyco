@@ -34,7 +34,7 @@ Test 5 OpenClaw variants against standardized benchmarks:
 - We're testing if these philosophical tenets actually improve agent performance
 
 ### Key Constraints
-- **⏰ DEADLINE:** Sunday Feb 1, 1:30 PM (submissions due)
+- **⏰ DEADLINE:** Sunday Feb 1, 21:30 UTC (1:30 PM PST)
 - **Presentation:** Recorded results shown live, explaining methodology + findings
 - **Prize potential:** Grand prize = robot dog + $2k cash; social media demo = $1k
 
@@ -77,8 +77,8 @@ Test 5 OpenClaw variants against standardized benchmarks:
 - MMLU-Pro: Too LLM-focused, doesn't test agent capabilities
 - AgentBench: Too complex/resource-intensive for deadline
 
-### Current Timeline (05:54 UTC)
-- **Now:** ~15h 36min to deadline (21:30 UTC / 1:30 PM PST)
+### Current Timeline (06:10 UTC)
+- **Now:** ~15.5h to deadline (21:30 UTC / 1:30 PM PST)
 - **Status:** Myco provisioning AWS snapshots for variants
 - **Next:** GAIA dataset access + infrastructure test
 
